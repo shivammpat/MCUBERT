@@ -1,0 +1,16 @@
+notebook
+ipykernel
+ipython
+jupyterlab
+requests
+python-dotenv
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+umap-learn
+datasets
+transformers[torch]
+torch
+docling
