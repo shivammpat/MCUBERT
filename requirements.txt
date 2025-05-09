@@ -1,6 +1,7 @@
 notebook
 ipykernel
 ipython
+ipywidgets
 jupyterlab
 requests
 python-dotenv
